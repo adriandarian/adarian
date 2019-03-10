@@ -2,6 +2,8 @@
 
 # Usage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adriandarian/personal-npm-card.svg)](https://greenkeeper.io/)
+
 Via npx:
 
 ```bash
